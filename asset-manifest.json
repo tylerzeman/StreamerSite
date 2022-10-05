@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Streamersite/static/css/main.73992b19.css",
+    "main.js": "/Streamersite/static/js/main.53193a56.js",
+    "static/js/787.dc88dcf5.chunk.js": "/Streamersite/static/js/787.dc88dcf5.chunk.js",
+    "static/media/artistic-collage-wallpaper-3840x2160_54.jpg": "/Streamersite/static/media/artistic-collage-wallpaper-3840x2160_54.ba5f2a98ef3291cabe51.jpg",
+    "static/media/Youtube_Icon.jpg": "/Streamersite/static/media/Youtube_Icon.43cb81ee1ef6caa21c0a.jpg",
+    "static/media/merchandise.png": "/Streamersite/static/media/merchandise.797ada59f237e85b5fcc.png",
+    "static/media/instagram.png": "/Streamersite/static/media/instagram.edb90ecc706a7a25542b.png",
+    "static/media/discord.png": "/Streamersite/static/media/discord.b1f762ef2042b0461423.png",
+    "static/media/twitter.png": "/Streamersite/static/media/twitter.8e65601e69067aadfe55.png",
+    "static/media/tik-tok.png": "/Streamersite/static/media/tik-tok.8bb71cc6c1bd4e58530b.png",
+    "index.html": "/Streamersite/index.html",
+    "main.73992b19.css.map": "/Streamersite/static/css/main.73992b19.css.map",
+    "main.53193a56.js.map": "/Streamersite/static/js/main.53193a56.js.map",
+    "787.dc88dcf5.chunk.js.map": "/Streamersite/static/js/787.dc88dcf5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73992b19.css",
+    "static/js/main.53193a56.js"
+  ]
+}
