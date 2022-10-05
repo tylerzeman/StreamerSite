@@ -65,14 +65,14 @@
 }
 
 #twitchVod {
-  margin: 5rem 0;
+  margin: auto;
   border: 1px solid rgba(0, 0, 0, 0.25);
   border-radius: 1rem;
   border: 1rem solid white;
 }
 
 #profilePic {
-  margin: 1rem;
+  margin: auto;
   padding: 10px;
   background-color: white;
   border: 5px solid black;
@@ -83,7 +83,7 @@
 .sections {
   background-color: white;
   font-size: xx-large;
-  margin: 1rem 5rem;
+  margin: 2rem 10rem;
   text-align: center;
   padding: 2rem;
   border-radius: 2rem;

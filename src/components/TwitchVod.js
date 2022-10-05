@@ -9,7 +9,7 @@ const TwitchVod = () => {
   };
   
   return (
-    <TwitchEmbed channel="Direwolfe2" autoplay muted withChat={false} darkMode={true}  onVideoReady={handleReady} id="twitchVod" height="100%" width="100%"/>
+    <TwitchEmbed channel="Direwolfe2" autoplay muted withChat={false} darkMode={true} onVideoReady={handleReady} id="twitchVod" height="100%" width="100%"/>
   );
 };
 
