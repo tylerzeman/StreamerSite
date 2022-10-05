@@ -89,41 +89,7 @@
   border-radius: 2rem;
 }
 
-@media only screen and (max-width: 1920px){
-    * {
-        padding: 0;
-        margin: 0;
-        box-sizing: border-box;
-      }
-      
-      .mainContainer {
-        background-color: rgba(121, 29, 171, 0.584);
-        height: 100%;
-        display: flex;
-        align-items: center;
-        flex-direction: column;
-        background: url(./images/artistic-collage-wallpaper-3840x2160_54.jpg);
-        background-position: center;
-        background-size: cover;
-      }
-      
-      .Header {
-        background-color: rgb(252, 252, 252);
-        height: 7rem;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        border-bottom: 5px solid black;
-      }
-      
-      .Header nav a {
-        text-decoration: none;
-        position: relative;
-        margin: auto;
-        padding: 0px 10px;
-        font-size: xx-large;
-        color: black;
-      }
+@media only screen and (max-width: 1920px){ 
       
       .Header nav a img {
         height: 3rem;
