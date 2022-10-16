@@ -10,16 +10,33 @@ function App() {
         <div className="twitchContainer">
           <TwitchVod />
         </div>
-        <div >
-          <img src={profilePic} id="profilePic" alt="Direwolfe's Youtube Icon"></img>
+        <div>
+          <img
+            src={profilePic}
+            id="profilePic"
+            alt="Direwolfe's Youtube Icon"
+          ></img>
         </div>
         <div className="sections divider">
           <h2>About Me</h2>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse pretium maximus massa quis aliquam. Mauris ipsum lorem, blandit sed bibendum in, aliquet eget enim. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean rhoncus sapien in augue imperdiet, sed semper ipsum consequat. Mauris aliquet id est a ultrices. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget nibh a risus gravida egestas in id risus. Morbi laoreet, mi sit amet pharetra mattis, enim lacus congue arcu, ut dapibus neque nisl id ipsum. Mauris et tellus sit amet nisl pharetra placerat in eget felis. Sed tristique a tortor ut blandit. Phasellus et lacinia sapien.</p>
+          <p>
+            What up my peeps i am Direwolfe2 a Marine Corps Veteran, people in my life call me Dustin.
+            I am a very proud father of one;mini version of myself. His name is
+            Liam and he is who inspired me to become a content creator. My
+            Aspirations as a Content Creator feel endless but my focus is mostly on my
+            Live streams on Twitch, although I am starting to branch out onto other
+            platforms. We have a very chill and steadily growing community that
+            has been shaped around the right type of people. Great viewers in
+            chat who are the foundation of why we are in twitch's top 100
+            chillest streams doing it (probably). Come out and see for
+            yourself!!
+          </p>
         </div>
         <div className="sections">
           <h2>Charity Work</h2>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse pretium maximus massa quis aliquam. Mauris ipsum lorem, blandit sed bibendum in, aliquet eget enim. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean rhoncus sapien in augue imperdiet, sed semper ipsum consequat. Mauris aliquet id est a ultrices. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget nibh a risus gravida egestas in id risus. Morbi laoreet, mi sit amet pharetra mattis, enim lacus congue arcu, ut dapibus neque nisl id ipsum. Mauris et tellus sit amet nisl pharetra placerat in eget felis. Sed tristique a tortor ut blandit. Phasellus et lacinia sapien.</p>
+          <p>
+            I am very passionate about Charity work and love giving back. Last Year we helped raised over $170,000 for St.Jude Children's Research Hospital as a Fallout Community, in our small community we managed to raise ~$570. I plan on doing work with StackUp which is a military charity that supports US and Allied Vets by sending gaming supply crates to help boost Moral in combat zones/humanitaian zones. I am always looking for more opportunities to give back please send all inquiries to: 
+          </p>
         </div>
       </div>
     </div>
