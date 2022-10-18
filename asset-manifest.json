@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/StreamerSite/static/css/main.58d1f030.css",
-    "main.js": "/StreamerSite/static/js/main.5303b961.js",
-    "static/js/787.dc88dcf5.chunk.js": "/StreamerSite/static/js/787.dc88dcf5.chunk.js",
-    "static/media/artistic-collage-wallpaper-3840x2160_54.jpg": "/StreamerSite/static/media/artistic-collage-wallpaper-3840x2160_54.ba5f2a98ef3291cabe51.jpg",
-    "static/media/Youtube_Icon.jpg": "/StreamerSite/static/media/Youtube_Icon.43cb81ee1ef6caa21c0a.jpg",
-    "static/media/merchandise.png": "/StreamerSite/static/media/merchandise.797ada59f237e85b5fcc.png",
-    "static/media/instagram.png": "/StreamerSite/static/media/instagram.edb90ecc706a7a25542b.png",
-    "static/media/discord.png": "/StreamerSite/static/media/discord.b1f762ef2042b0461423.png",
-    "static/media/twitter.png": "/StreamerSite/static/media/twitter.8e65601e69067aadfe55.png",
-    "static/media/tik-tok.png": "/StreamerSite/static/media/tik-tok.8bb71cc6c1bd4e58530b.png",
-    "index.html": "/StreamerSite/index.html",
-    "main.58d1f030.css.map": "/StreamerSite/static/css/main.58d1f030.css.map",
-    "main.5303b961.js.map": "/StreamerSite/static/js/main.5303b961.js.map",
-    "787.dc88dcf5.chunk.js.map": "/StreamerSite/static/js/787.dc88dcf5.chunk.js.map"
+    "main.css": "/static/css/main.2a161868.css",
+    "main.js": "/static/js/main.69bf0d24.js",
+    "static/js/787.dc88dcf5.chunk.js": "/static/js/787.dc88dcf5.chunk.js",
+    "static/media/artistic-collage-wallpaper-3840x2160_54.jpg": "/static/media/artistic-collage-wallpaper-3840x2160_54.ba5f2a98ef3291cabe51.jpg",
+    "static/media/Youtube_Icon.jpg": "/static/media/Youtube_Icon.43cb81ee1ef6caa21c0a.jpg",
+    "static/media/merchandise.png": "/static/media/merchandise.797ada59f237e85b5fcc.png",
+    "static/media/instagram.png": "/static/media/instagram.edb90ecc706a7a25542b.png",
+    "static/media/discord.png": "/static/media/discord.b1f762ef2042b0461423.png",
+    "static/media/twitter.png": "/static/media/twitter.8e65601e69067aadfe55.png",
+    "static/media/tik-tok.png": "/static/media/tik-tok.8bb71cc6c1bd4e58530b.png",
+    "index.html": "/index.html",
+    "main.2a161868.css.map": "/static/css/main.2a161868.css.map",
+    "main.69bf0d24.js.map": "/static/js/main.69bf0d24.js.map",
+    "787.dc88dcf5.chunk.js.map": "/static/js/787.dc88dcf5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.58d1f030.css",
-    "static/js/main.5303b961.js"
+    "static/css/main.2a161868.css",
+    "static/js/main.69bf0d24.js"
   ]
 }
