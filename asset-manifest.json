@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.2a161868.css",
-    "main.js": "/static/js/main.c3fc3066.js",
+    "main.css": "/static/css/main.bbd106eb.css",
+    "main.js": "/static/js/main.a87f75f5.js",
     "static/js/787.5f25266b.chunk.js": "/static/js/787.5f25266b.chunk.js",
     "static/media/artistic-collage-wallpaper-3840x2160_54.jpg": "/static/media/artistic-collage-wallpaper-3840x2160_54.ba5f2a98ef3291cabe51.jpg",
     "static/media/Youtube_Icon.jpg": "/static/media/Youtube_Icon.43cb81ee1ef6caa21c0a.jpg",
@@ -11,12 +11,12 @@
     "static/media/twitter.png": "/static/media/twitter.8e65601e69067aadfe55.png",
     "static/media/tik-tok.png": "/static/media/tik-tok.8bb71cc6c1bd4e58530b.png",
     "index.html": "/index.html",
-    "main.2a161868.css.map": "/static/css/main.2a161868.css.map",
-    "main.c3fc3066.js.map": "/static/js/main.c3fc3066.js.map",
+    "main.bbd106eb.css.map": "/static/css/main.bbd106eb.css.map",
+    "main.a87f75f5.js.map": "/static/js/main.a87f75f5.js.map",
     "787.5f25266b.chunk.js.map": "/static/js/787.5f25266b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2a161868.css",
-    "static/js/main.c3fc3066.js"
+    "static/css/main.bbd106eb.css",
+    "static/js/main.a87f75f5.js"
   ]
 }
