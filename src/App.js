@@ -2,6 +2,7 @@ import "./App.css";
 import Header from "./components/Header";
 import TwitchVod from "./components/TwitchVod";
 import profilePic from "./images/Youtube_Icon.jpg";
+import Footer from "./components/Footer";
 function App() {
   return (
     <div>
@@ -35,9 +36,12 @@ function App() {
         <div className="sections">
           <h2>Charity Work</h2>
           <p>
-            I am very passionate about Charity work and love giving back. Last Year we helped raised over $170,000 for St.Jude Children's Research Hospital as a Fallout Community, in our small community we managed to raise ~$570. I plan on doing work with StackUp which is a military charity that supports US and Allied Vets by sending gaming supply crates to help boost Moral in combat zones/humanitaian zones. I am always looking for more opportunities to give back please send all inquiries to: 
+            I am very passionate about Charity work and love giving back. Last Year we helped raised over $170,000 for St.Jude Children's Research Hospital as a Fallout Community, in our small community we managed to raise ~$570. I plan on doing work with StackUp which is a military charity that supports US and Allied Vets by sending gaming supply crates to help boost Moral in combat zones/humanitaian zones. I am always looking for more opportunities to give back please send all inquiries to: Dehart08@icloud.com
           </p>
         </div>
+      </div>
+      <div>
+        <Footer />
       </div>
     </div>
   );

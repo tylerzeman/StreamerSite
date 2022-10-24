@@ -88,6 +88,44 @@
   border-radius: 2rem;
 }
 
+.footer {
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  justify-content: center;
+}
+
+.footerCol {
+  display: flex;
+  flex-direction: column;
+  color: black;
+  font-size: 1.5rem;
+  margin: 4.5rem;
+}
+
+.footerCol a {
+  color: rgb(60, 60, 60);
+  text-decoration: none;
+  padding: 0.5rem 0;
+  font-size: 2rem;
+  position: relative;
+}
+
+.footer div a:after {
+  content: "";
+  position: absolute;
+  bottom: 0.5rem;
+  left: 0px;
+  width: 0%;
+  height: 1px;
+  background: black;
+  border-radius: 3px;
+  transition: width 0.5s;
+}
+
+.footer div a:hover:after {
+  width: 100%;
+}
+
 @media only screen and (max-width: 1920px) {
   .Header {
     height: 7rem;
@@ -187,7 +225,19 @@
     padding: 2rem;
     border-radius: 2rem;
   }
+
+  .footerCol {
+    font-size: 1rem;
+    margin: 2.5rem;
+  }
+
+  .footerCol a {
+    padding: 0.5rem 0;
+    font-size: 1.1rem;
+  }
 }
+
+
 
 @media only screen and (max-width: 1024px) {
   .Header nav a img {
@@ -269,6 +319,16 @@
     padding: 2rem;
     border-radius: 2rem;
   }
+
+  .footerCol {
+    font-size: .7rem;
+    margin: 2.5rem;
+  }
+
+  .footerCol a {
+    padding: 0.5rem 0;
+    font-size: 1.1rem;
+  }
 }
 
 @media only screen and (max-width: 768px) {
@@ -315,6 +375,16 @@
     padding: 2rem;
     border-radius: 2rem;
   }
+
+  .footerCol {
+    font-size: .75rem;
+    margin: 1.5rem;
+  }
+
+  .footerCol a {
+    padding: 0.5rem 0;
+    font-size: 1rem;
+  }
 }
 
 @media only screen and (max-width: 600px) {
@@ -353,6 +423,16 @@
     text-align: center;
     padding: 2rem;
     border-radius: 2rem;
+  }
+
+  .footerCol {
+    font-size: .6rem;
+    margin: 1rem;
+  }
+
+  .footerCol a {
+    padding: 0.5rem 0;
+    font-size: .9rem;
   }
 }
 
@@ -410,6 +490,16 @@
     padding: 2rem;
     border-radius: 2rem;
   }
+
+  .footerCol {
+    font-size: .55rem;
+    margin: .45rem;
+  }
+
+  .footerCol a {
+    padding: 0.35rem 0;
+    font-size: .85rem;
+  }
 }
 
 @media only screen and (max-width: 320px) {
@@ -461,5 +551,15 @@
     text-align: center;
     padding: 1rem;
     border-radius: 2rem;
+  }
+
+  .footerCol {
+    font-size: .35rem;
+    margin: .35rem;
+  }
+
+  .footerCol a {
+    padding: 0.1rem 0;
+    font-size: .55rem;
   }
 }
