@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-[Deployed-Site](#Deployed Site)
+[Deployed Site](#Deployed-Site)
 
 [Description](#Description)
 
